@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\FILES\University\3 course\1 term\SP\13\lab4-ht-com-dll\OS_0402\main.cpp(37,12): warning C4566: символ, представленный универсальным именем символа "\U0001F4A2", невозможно представить в текущей кодовой странице (1251)
+D:\FILES\University\3 course\1 term\SP\13\lab4-ht-com-dll\OS_0402\main.cpp(39,10): warning C4566: символ, представленный универсальным именем символа "\U0001F4A2", невозможно представить в текущей кодовой странице (1251)
+D:\FILES\University\3 course\1 term\SP\13\lab4-ht-com-dll\OS_0402\main.cpp(46,97): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\FILES\University\3 course\1 term\SP\13\lab4-ht-com-dll\OS_0402\main.cpp(48,13): warning C4566: символ, представленный универсальным именем символа "\U0001F4A2", невозможно представить в текущей кодовой странице (1251)
+D:\FILES\University\3 course\1 term\SP\13\lab4-ht-com-dll\OS_0402\main.cpp(50,13): warning C4566: символ, представленный универсальным именем символа "\U0001F4A2", невозможно представить в текущей кодовой странице (1251)
+  OS_0402.vcxproj -> D:\FILES\University\3 course\1 term\SP\13\lab4-ht-com-dll\x64\Debug\OS_0402.exe
