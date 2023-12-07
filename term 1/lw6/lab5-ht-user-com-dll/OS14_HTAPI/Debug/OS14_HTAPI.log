@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Auth.cpp
+D:\1POIT\3\OSI\labs\ОССП_Лабораторная_работа_14 (4 часа)\lab5-ht-user-com-dll\OS14_HTAPI\Auth.cpp(24,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\1POIT\3\OSI\labs\ОССП_Лабораторная_работа_14 (4 часа)\lab5-ht-user-com-dll\OS14_HTAPI\Auth.cpp(76,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Element.cpp
+  HT.cpp
+  Создание кода...
+  OS14_HTAPI.vcxproj -> D:\1POIT\3\OSI\labs\ОССП_Лабораторная_работа_14 (4 часа)\lab5-ht-user-com-dll\Debug\OS14_HTAPI.lib

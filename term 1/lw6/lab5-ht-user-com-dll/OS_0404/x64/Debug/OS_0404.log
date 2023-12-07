@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\FILES\University\3 course\1 term\SP\14\lab5-ht-user-com-dll\OS_0404\main.cpp(49,121): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\FILES\University\3 course\1 term\SP\14\lab5-ht-user-com-dll\OS_0404\main.cpp(55,88): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OS_0404.vcxproj -> D:\FILES\University\3 course\1 term\SP\14\lab5-ht-user-com-dll\x64\Debug\OS_0404.exe

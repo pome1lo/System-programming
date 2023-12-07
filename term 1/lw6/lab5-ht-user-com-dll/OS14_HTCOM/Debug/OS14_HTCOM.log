@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  ClassFactory.cpp
+  ComponentHT.cpp
+  dllmain.cpp
+  ExportFunctions.cpp
+  Registry.cpp
+  Создание кода...
+     Создается библиотека D:\1POIT\3\OSI\labs\ОССП_Лабораторная_работа_14 (4 часа)\lab5-ht-user-com-dll\Debug\OS14_HTCOM.lib и объект D:\1POIT\3\OSI\labs\ОССП_Лабораторная_работа_14 (4 часа)\lab5-ht-user-com-dll\Debug\OS14_HTCOM.exp
+  OS14_HTCOM.vcxproj -> D:\1POIT\3\OSI\labs\ОССП_Лабораторная_работа_14 (4 часа)\lab5-ht-user-com-dll\Debug\OS14_HTCOM.dll
