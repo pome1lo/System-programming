@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Auth.cpp
+D:\15\lab6-ht-service-user-com-dll\OS15_HTAPI\Auth.cpp(24,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\15\lab6-ht-service-user-com-dll\OS15_HTAPI\Auth.cpp(76,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Element.cpp
+  HT.cpp
+  Создание кода...
+  OS15_HTAPI.vcxproj -> D:\15\lab6-ht-service-user-com-dll\x64\Debug\OS15_HTAPI.lib
